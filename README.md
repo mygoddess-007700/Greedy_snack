@@ -1,6 +1,2 @@
 # Greedy_snack
-创作心得、不足与收获
-请见我的博客：www.mygoddess.icu
-代码与注释
-请见我的github：mygoddess-007700
-欢迎互相借鉴，指导不足
+## 一个简单控制台贪吃蛇游戏，使用了window头文件，数据结构使用了双端队列
